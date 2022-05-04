@@ -1,0 +1,7 @@
+/.vscode
+
+bot.js
+gulagbot.sql
+npm-debug.log
+package.json
+/node_modules
