@@ -4,4 +4,5 @@ bot.js
 gulagbot.sql
 npm-debug.log
 package.json
+Config.js
 /node_modules
